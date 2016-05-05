@@ -1,0 +1,4 @@
+LIBRARY	compDescfrom6DOF.mxe
+
+EXPORTS
+	main
