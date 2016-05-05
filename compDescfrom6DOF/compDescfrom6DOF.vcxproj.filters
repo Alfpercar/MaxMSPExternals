@@ -36,20 +36,20 @@
     <ClCompile Include="TrackerCalibration.cxx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\utils\utils.cpp">
+    <ClCompile Include="..\extDependencies\tinyxml\tinyxmlparser.cpp">
+      <Filter>tinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extDependencies\tinyxml\tinystr.cpp">
+      <Filter>tinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extDependencies\tinyxml\tinyxml.cpp">
+      <Filter>tinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extDependencies\tinyxml\tinyxmlerror.cpp">
+      <Filter>tinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\extDependencies\utils\utils.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\concat\tinyxml\tinystr.cpp">
-      <Filter>tinyXML</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\concat\tinyxml\tinyxml.cpp">
-      <Filter>tinyXML</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\concat\tinyxml\tinyxmlerror.cpp">
-      <Filter>tinyXML</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\concat\tinyxml\tinyxmlparser.cpp">
-      <Filter>tinyXML</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -77,20 +77,20 @@
     <ClInclude Include="WriteTimer.hxx">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\utils\BPF.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="CBuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\utils\utils.h">
+    <ClInclude Include="..\extDependencies\tinyxml\tinystr.h">
+      <Filter>tinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\extDependencies\tinyxml\tinyxml.h">
+      <Filter>tinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\extDependencies\utils\BPF.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\concat\tinyxml\tinystr.h">
-      <Filter>tinyXML</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\concat\tinyxml\tinyxml.h">
-      <Filter>tinyXML</Filter>
+    <ClInclude Include="..\extDependencies\utils\utils.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

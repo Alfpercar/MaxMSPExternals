@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/genericconcatsynth/!svn/ver/1091/trunk/GenericConcatSynthLib/source/concat/FileFormats
+END
+MatrixDataFile.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/genericconcatsynth/!svn/ver/1073/trunk/GenericConcatSynthLib/source/concat/FileFormats/MatrixDataFile.cxx
+END
+MusicXmlParser.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/genericconcatsynth/!svn/ver/1091/trunk/GenericConcatSynthLib/source/concat/FileFormats/MusicXmlParser.cxx
+END
+WaveSurferFile.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/genericconcatsynth/!svn/ver/1026/trunk/GenericConcatSynthLib/source/concat/FileFormats/WaveSurferFile.hxx
+END
+WaveSurferScoreParser.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/genericconcatsynth/!svn/ver/1068/trunk/GenericConcatSynthLib/source/concat/FileFormats/WaveSurferScoreParser.cxx
+END
+MatrixDataFile.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/genericconcatsynth/!svn/ver/1073/trunk/GenericConcatSynthLib/source/concat/FileFormats/MatrixDataFile.hxx
+END
+MusicXmlParser.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/genericconcatsynth/!svn/ver/1060/trunk/GenericConcatSynthLib/source/concat/FileFormats/MusicXmlParser.hxx
+END
+IniFile.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/1029/trunk/GenericConcatSynthLib/source/concat/FileFormats/IniFile.hxx
+END
+HeaderAndMetronomeFile.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/genericconcatsynth/!svn/ver/1091/trunk/GenericConcatSynthLib/source/concat/FileFormats/HeaderAndMetronomeFile.hxx
+END
+ScoreList.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/genericconcatsynth/!svn/ver/1091/trunk/GenericConcatSynthLib/source/concat/FileFormats/ScoreList.cxx
+END
+WaveSurferScoreParser.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/genericconcatsynth/!svn/ver/1068/trunk/GenericConcatSynthLib/source/concat/FileFormats/WaveSurferScoreParser.hxx
+END
+FileVerifyHelpers.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/genericconcatsynth/!svn/ver/404/trunk/GenericConcatSynthLib/source/concat/FileFormats/FileVerifyHelpers.hxx
+END
+ScoreList.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/genericconcatsynth/!svn/ver/1091/trunk/GenericConcatSynthLib/source/concat/FileFormats/ScoreList.hxx
+END
+BinFile.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/genericconcatsynth/!svn/ver/726/trunk/GenericConcatSynthLib/source/concat/FileFormats/BinFile.hxx
+END

@@ -49,7 +49,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <Optimization>Disabled</Optimization>
-      <AdditionalIncludeDirectories>.\;..\..\MaxSDK-5.0.6r2\MaxSDK-5.0.6\c74support\max-includes;..\..\MaxSDK-5.0.6r2\MaxSDK-5.0.6\c74support\msp-includes;..\..\;..\PDI_patriot\Inc;..\utils;..\..\ViolinRecordingPlugIn\source;..\..\concat;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.\;..\extDependencies\MaxSDK-5.0.6\c74support\max-includes;..\extDependencies\MaxSDK-5.0.6\c74support\msp-includes;..\extDependencies\utils;..\extDependencies\ViolinRecordingPlugIn\source;..\extDependencies\PDI\Inc;..\extDependencies;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>WIN_VERSION;WIN32;_DEBUG;_WINDOWS;_USRDLL;WIN_EXT_VERSION;_CRT_NOFORCE_MANIFEST;POLHEMUSTEST_EXPORTS;TIXML_USE_STL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <IgnoreStandardIncludePath>false</IgnoreStandardIncludePath>
       <MinimalRebuild>true</MinimalRebuild>
@@ -71,7 +71,7 @@
     <Link>
       <AdditionalDependencies>PDI.LIB;MaxAPI.lib;MaxAudio.lib;libsndfile-1.lib</AdditionalDependencies>
       <OutputFile>$(TargetPath)</OutputFile>
-      <AdditionalLibraryDirectories>..\..\MaxSDK-5.1.1\MaxSDK-5.1.1\c74support\max-includes;..\..\MaxSDK-5.1.1\MaxSDK-5.1.1\c74support\msp-includes;../PDI_patriot/Lib;..\..\libsndfile;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\extDependencies\MaxSDK-5.0.6\c74support\max-includes;..\extDependencies\MaxSDK-5.0.6\c74support\msp-includes;../extDependencies/PDI_patriot/Lib;..\extDependencies\libsndfile;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <IgnoreSpecificDefaultLibraries>MSVCRT.lib; ;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ModuleDefinitionFile>compDescfrom6DOF.def</ModuleDefinitionFile>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -129,19 +129,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\extDependencies\tinyxml\tinystr.cpp" />
+    <ClCompile Include="..\extDependencies\tinyxml\tinyxml.cpp" />
+    <ClCompile Include="..\extDependencies\tinyxml\tinyxmlerror.cpp" />
+    <ClCompile Include="..\extDependencies\tinyxml\tinyxmlparser.cpp" />
+    <ClCompile Include="..\extDependencies\utils\utils.cpp" />
     <ClCompile Include="AsynchFileWriter.cxx" />
     <ClCompile Include="compDescfrom6DOF.c" />
     <ClCompile Include="..\..\ViolinRecordingPlugIn\source\ForceCalibration.cxx" />
     <ClCompile Include="..\..\concat\Utilities\Logging.cxx" />
     <ClCompile Include="..\..\concat\FileFormats\MatrixDataFile.cxx" />
     <ClCompile Include="TrackerCalibration.cxx" />
-    <ClCompile Include="..\utils\utils.cpp" />
-    <ClCompile Include="..\..\concat\tinyxml\tinystr.cpp" />
-    <ClCompile Include="..\..\concat\tinyxml\tinyxml.cpp" />
-    <ClCompile Include="..\..\concat\tinyxml\tinyxmlerror.cpp" />
-    <ClCompile Include="..\..\concat\tinyxml\tinyxmlparser.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\extDependencies\tinyxml\tinystr.h" />
+    <ClInclude Include="..\extDependencies\tinyxml\tinyxml.h" />
+    <ClInclude Include="..\extDependencies\utils\BPF.h" />
+    <ClInclude Include="..\extDependencies\utils\utils.h" />
     <ClInclude Include="AsynchFileWriter.hxx" />
     <ClInclude Include="ComputeDescriptors.hxx" />
     <ClInclude Include="..\..\ViolinRecordingPlugIn\source\ForceCalibration.hxx" />
@@ -150,11 +154,7 @@
     <ClInclude Include="..\..\concat\FileFormats\MatrixDataFile.hxx" />
     <ClInclude Include="TrackerCalibration.hxx" />
     <ClInclude Include="WriteTimer.hxx" />
-    <ClInclude Include="..\utils\BPF.h" />
     <ClInclude Include="CBuffer.h" />
-    <ClInclude Include="..\utils\utils.h" />
-    <ClInclude Include="..\..\concat\tinyxml\tinystr.h" />
-    <ClInclude Include="..\..\concat\tinyxml\tinyxml.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="polhemusTest.def" />

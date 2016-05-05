@@ -1,0 +1,270 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\MMSample.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\MMSample.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About MMSample"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "MMSample Version 1.0",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Copyright (C) 2006",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "OK",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_MMSAMPLE_DIALOG1 DIALOGEX 0, 0, 402, 233
+STYLE WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "MINUTEMAN Sample"
+FONT 8, "MS Sans Serif"
+BEGIN
+    PUSHBUTTON      "Quit",IDCANCEL,319,7,76,14
+    PUSHBUTTON      "Configure..",IDC_BTN_CONFIG,241,7,76,14
+    EDITTEXT        IDC_EDT_OUTPUT,7,34,388,192,ES_MULTILINE | 
+                    ES_AUTOHSCROLL | WS_VSCROLL
+    PUSHBUTTON      "Single Frame",IDC_BTN_SINGLE,85,7,76,14
+    CONTROL         "Continuous Frames",IDC_CHK_CONT,"Button",
+                    BS_AUTOCHECKBOX | BS_PUSHLIKE | WS_TABSTOP,163,7,76,14
+    CONTROL         "ConnectMM",IDC_CHK_CONNECT,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,7,7,76,14
+END
+
+IDD_MMSAMPLE_CONFIG1 DIALOGEX 0, 0, 347, 142
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "MINUTEMAN Configuration"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "ESP On",IDC_CHK_ESP,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,22,41,10
+    CONTROL         "E_MMFILT_NONE",IDC_RAD_FILT0,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,15,52,85,10
+    CONTROL         "E_MMFILT_LIGHT",IDC_RAD_FILT1,"Button",
+                    BS_AUTORADIOBUTTON,15,65,85,10
+    CONTROL         "E_MMFILT_MEDIUM",IDC_RAD_FILT2,"Button",
+                    BS_AUTORADIOBUTTON,15,78,85,10
+    CONTROL         "E_MMFILT_HEAVY",IDC_RAD_FILT3,"Button",
+                    BS_AUTORADIOBUTTON,15,91,85,10
+    CONTROL         "Station Enabled",IDC_CHK_STA1_EN,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,129,22,66,10
+    CONTROL         "Boresight Enabled",IDC_CHK_STA1_BORE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,129,36,73,10
+    CONTROL         "PDI_MODATA_ORI",IDC_RAD_STA1_OD0,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,129,65,90,10
+    CONTROL         "PDI_MODATA_QTRN",IDC_RAD_STA1_OD1,"Button",
+                    BS_AUTORADIOBUTTON,129,78,90,10
+    CONTROL         "PDI_MODATA_DIRCOS",IDC_RAD_STA1_OD2,"Button",
+                    BS_AUTORADIOBUTTON,129,91,91,10
+    CONTROL         "Station Enabled",IDC_CHK_STA2_EN,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,243,22,66,10
+    CONTROL         "Boresight Enabled",IDC_CHK_STA2_BORE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,243,36,73,10
+    CONTROL         "PDI_MODATA_ORI",IDC_RAD_STA2_OD0,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,243,65,90,10
+    CONTROL         "PDI_MODATA_QTRN",IDC_RAD_STA2_OD1,"Button",
+                    BS_AUTORADIOBUTTON,243,78,90,10
+    CONTROL         "PDI_MODATA_DIRCOS",IDC_RAD_STA2_OD2,"Button",
+                    BS_AUTORADIOBUTTON,243,91,91,10
+    PUSHBUTTON      "OK",IDOK,92,121,50,14
+    PUSHBUTTON      "Restore",IDC_BTN_RESTORE,148,121,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,204,121,50,14
+    GROUPBOX        "Device-Level",IDC_STATIC,7,7,107,102
+    GROUPBOX        "Station 1",IDC_STATIC,120,7,107,103
+    GROUPBOX        "Output Data",IDC_STATIC,120,52,107,57
+    GROUPBOX        "Station 2",IDC_STATIC,233,7,107,103
+    GROUPBOX        "Output Data",IDC_STATIC,233,52,107,57
+    GROUPBOX        "eMMFilterLevel",IDC_STATIC,7,38,107,71
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "MMSample MFC Application\0"
+            VALUE "FileVersion", "1.0.0\0"
+            VALUE "InternalName", "MMSample\0"
+            VALUE "LegalCopyright", "Copyright (C) 2006\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "MMSample.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "MMSample Application\0"
+            VALUE "ProductVersion", "1.0.0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_MMSAMPLE_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 395
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 226
+    END
+
+    IDD_MMSAMPLE_CONFIG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 340
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 135
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "&About MMSample..."
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\MMSample.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

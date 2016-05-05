@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/genericconcatsynth/!svn/ver/940/trunk/ViolinRecordingPlugIn/source
+END
+GraphPlotter.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/genericconcatsynth/!svn/ver/924/trunk/ViolinRecordingPlugIn/source/GraphPlotter.hxx
+END
+SyncOutGenerator.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genericconcatsynth/!svn/ver/676/trunk/ViolinRecordingPlugIn/source/SyncOutGenerator.hxx
+END
+ArduinoFrame.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/genericconcatsynth/!svn/ver/917/trunk/ViolinRecordingPlugIn/source/ArduinoFrame.hxx
+END
+ViolinRecordingPlugInEditor.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/924/trunk/ViolinRecordingPlugIn/source/ViolinRecordingPlugInEditor.cxx
+END
+ChangeListenerBinder.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/genericconcatsynth/!svn/ver/562/trunk/ViolinRecordingPlugIn/source/ChangeListenerBinder.hxx
+END
+Scene3d.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/genericconcatsynth/!svn/ver/917/trunk/ViolinRecordingPlugIn/source/Scene3d.cxx
+END
+TestMain.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/genericconcatsynth/!svn/ver/79/trunk/ViolinRecordingPlugIn/source/TestMain.cxx
+END
+LibertyTracker.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/genericconcatsynth/!svn/ver/911/trunk/ViolinRecordingPlugIn/source/LibertyTracker.cxx
+END
+JucePluginCharacteristics.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/genericconcatsynth/!svn/ver/666/trunk/ViolinRecordingPlugIn/source/JucePluginCharacteristics.h
+END
+Exceptions.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/genericconcatsynth/!svn/ver/504/trunk/ViolinRecordingPlugIn/source/Exceptions.hxx
+END
+CalibrationAngles.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/genericconcatsynth/!svn/ver/562/trunk/ViolinRecordingPlugIn/source/CalibrationAngles.hxx
+END
+Camera.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/genericconcatsynth/!svn/ver/560/trunk/ViolinRecordingPlugIn/source/Camera.cxx
+END
+TrackerThread.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/genericconcatsynth/!svn/ver/660/trunk/ViolinRecordingPlugIn/source/TrackerThread.hxx
+END
+ViolinRecordingPlugInEditor.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/905/trunk/ViolinRecordingPlugIn/source/ViolinRecordingPlugInEditor.hxx
+END
+Scene3d.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/genericconcatsynth/!svn/ver/924/trunk/ViolinRecordingPlugIn/source/Scene3d.hxx
+END
+ViolinRecordingPlugInEffect.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/924/trunk/ViolinRecordingPlugIn/source/ViolinRecordingPlugInEffect.cxx
+END
+FilterFir.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/genericconcatsynth/!svn/ver/572/trunk/ViolinRecordingPlugIn/source/FilterFir.hxx
+END
+LibertyTracker.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/genericconcatsynth/!svn/ver/655/trunk/ViolinRecordingPlugIn/source/LibertyTracker.hxx
+END
+AtomicInt.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/genericconcatsynth/!svn/ver/666/trunk/ViolinRecordingPlugIn/source/AtomicInt.hxx
+END
+Camera.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/genericconcatsynth/!svn/ver/517/trunk/ViolinRecordingPlugIn/source/Camera.hxx
+END
+ViolinRecordingPlugInEffect.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/924/trunk/ViolinRecordingPlugIn/source/ViolinRecordingPlugInEffect.hxx
+END
+DummyTimer.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/genericconcatsynth/!svn/ver/671/trunk/ViolinRecordingPlugIn/source/DummyTimer.hxx
+END
+ComputeDescriptors.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/genericconcatsynth/!svn/ver/937/trunk/ViolinRecordingPlugIn/source/ComputeDescriptors.hxx
+END
+LockFreeFifo.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/genericconcatsynth/!svn/ver/520/trunk/ViolinRecordingPlugIn/source/LockFreeFifo.hxx
+END
+TrackerCalibration.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/genericconcatsynth/!svn/ver/683/trunk/ViolinRecordingPlugIn/source/TrackerCalibration.cxx
+END
+ForceCalibration.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genericconcatsynth/!svn/ver/940/trunk/ViolinRecordingPlugIn/source/ForceCalibration.cxx
+END
+AtomicEnum.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/genericconcatsynth/!svn/ver/553/trunk/ViolinRecordingPlugIn/source/AtomicEnum.hxx
+END
+AtomicPtr.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/genericconcatsynth/!svn/ver/553/trunk/ViolinRecordingPlugIn/source/AtomicPtr.hxx
+END
+ViolinRecordingPlugInConfig.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/917/trunk/ViolinRecordingPlugIn/source/ViolinRecordingPlugInConfig.hxx
+END
+TrackerCalibration.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/genericconcatsynth/!svn/ver/683/trunk/ViolinRecordingPlugIn/source/TrackerCalibration.hxx
+END
+HorizontalBarMeter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/genericconcatsynth/!svn/ver/504/trunk/ViolinRecordingPlugIn/source/HorizontalBarMeter.cxx
+END
+ForceCalibration.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genericconcatsynth/!svn/ver/926/trunk/ViolinRecordingPlugIn/source/ForceCalibration.hxx
+END
+AtomicFlag.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/genericconcatsynth/!svn/ver/553/trunk/ViolinRecordingPlugIn/source/AtomicFlag.hxx
+END
+HorizontalBarMeter.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/genericconcatsynth/!svn/ver/671/trunk/ViolinRecordingPlugIn/source/HorizontalBarMeter.hxx
+END
+Crc32.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/genericconcatsynth/!svn/ver/560/trunk/ViolinRecordingPlugIn/source/Crc32.hxx
+END
+AsynchFileWriter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genericconcatsynth/!svn/ver/649/trunk/ViolinRecordingPlugIn/source/AsynchFileWriter.cxx
+END
+ComPort.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/genericconcatsynth/!svn/ver/543/trunk/ViolinRecordingPlugIn/source/ComPort.cxx
+END
+SimpleMatrix.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/genericconcatsynth/!svn/ver/562/trunk/ViolinRecordingPlugIn/source/SimpleMatrix.hxx
+END
+AsynchFileLogger.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genericconcatsynth/!svn/ver/504/trunk/ViolinRecordingPlugIn/source/AsynchFileLogger.cxx
+END
+AsynchFileWriter.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genericconcatsynth/!svn/ver/671/trunk/ViolinRecordingPlugIn/source/AsynchFileWriter.hxx
+END
+NotifyingLogAppender.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/genericconcatsynth/!svn/ver/498/trunk/ViolinRecordingPlugIn/source/NotifyingLogAppender.cxx
+END
+ComPort.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/genericconcatsynth/!svn/ver/659/trunk/ViolinRecordingPlugIn/source/ComPort.hxx
+END
+Derivative2.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/genericconcatsynth/!svn/ver/683/trunk/ViolinRecordingPlugIn/source/Derivative2.hxx
+END
+AsynchFileLogger.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genericconcatsynth/!svn/ver/671/trunk/ViolinRecordingPlugIn/source/AsynchFileLogger.hxx
+END
+Interpolation.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/genericconcatsynth/!svn/ver/673/trunk/ViolinRecordingPlugIn/source/Interpolation.hxx
+END
+NotifyingLogAppender.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/genericconcatsynth/!svn/ver/563/trunk/ViolinRecordingPlugIn/source/NotifyingLogAppender.hxx
+END
+FileWriters.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/genericconcatsynth/!svn/ver/563/trunk/ViolinRecordingPlugIn/source/FileWriters.hxx
+END
+WindowGen.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/genericconcatsynth/!svn/ver/572/trunk/ViolinRecordingPlugIn/source/WindowGen.hxx
+END
+FixedFreqTone.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/genericconcatsynth/!svn/ver/663/trunk/ViolinRecordingPlugIn/source/FixedFreqTone.hxx
+END
+ViolinModel3d.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/genericconcatsynth/!svn/ver/513/trunk/ViolinRecordingPlugIn/source/ViolinModel3d.cxx
+END
+GraphPlotter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/genericconcatsynth/!svn/ver/924/trunk/ViolinRecordingPlugIn/source/GraphPlotter.cxx
+END
+ViolinModel3d.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/genericconcatsynth/!svn/ver/503/trunk/ViolinRecordingPlugIn/source/ViolinModel3d.hxx
+END

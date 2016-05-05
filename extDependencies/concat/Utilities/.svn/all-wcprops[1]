@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/genericconcatsynth/!svn/ver/1073/trunk/GenericConcatSynthLib/source/concat/Utilities
+END
+DirectoryIterator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/genericconcatsynth/!svn/ver/377/trunk/GenericConcatSynthLib/source/concat/Utilities/DirectoryIterator.cxx
+END
+LoggingProgress.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/genericconcatsynth/!svn/ver/966/trunk/GenericConcatSynthLib/source/concat/Utilities/LoggingProgress.hxx
+END
+MathHelpers.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/genericconcatsynth/!svn/ver/771/trunk/GenericConcatSynthLib/source/concat/Utilities/MathHelpers.hxx
+END
+IteratorHelpers.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/genericconcatsynth/!svn/ver/371/trunk/GenericConcatSynthLib/source/concat/Utilities/IteratorHelpers.hxx
+END
+DirectoryIterator.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/genericconcatsynth/!svn/ver/377/trunk/GenericConcatSynthLib/source/concat/Utilities/DirectoryIterator.hxx
+END
+Filename.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/genericconcatsynth/!svn/ver/1073/trunk/GenericConcatSynthLib/source/concat/Utilities/Filename.hxx
+END
+OverlappingCopyHelper.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/genericconcatsynth/!svn/ver/846/trunk/GenericConcatSynthLib/source/concat/Utilities/OverlappingCopyHelper.hxx
+END
+Logging.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/genericconcatsynth/!svn/ver/472/trunk/GenericConcatSynthLib/source/concat/Utilities/Logging.cxx
+END
+Hash.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/genericconcatsynth/!svn/ver/591/trunk/GenericConcatSynthLib/source/concat/Utilities/Hash.hxx
+END
+FloatToInt.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/199/trunk/GenericConcatSynthLib/source/concat/Utilities/FloatToInt.hxx
+END
+Polynomial.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/319/trunk/GenericConcatSynthLib/source/concat/Utilities/Polynomial.hxx
+END
+XmlHelpers.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/355/trunk/GenericConcatSynthLib/source/concat/Utilities/XmlHelpers.hxx
+END
+CliParser.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genericconcatsynth/!svn/ver/1002/trunk/GenericConcatSynthLib/source/concat/Utilities/CliParser.hxx
+END
+Optional.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/genericconcatsynth/!svn/ver/29/trunk/GenericConcatSynthLib/source/concat/Utilities/Optional.hxx
+END
+Logging.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/genericconcatsynth/!svn/ver/854/trunk/GenericConcatSynthLib/source/concat/Utilities/Logging.hxx
+END
+Interpolation.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/genericconcatsynth/!svn/ver/821/trunk/GenericConcatSynthLib/source/concat/Utilities/Interpolation.hxx
+END
+EnumStringMap.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/genericconcatsynth/!svn/ver/729/trunk/GenericConcatSynthLib/source/concat/Utilities/EnumStringMap.hxx
+END
+StringHelpers.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/genericconcatsynth/!svn/ver/874/trunk/GenericConcatSynthLib/source/concat/Utilities/StringHelpers.hxx
+END
+FloatEq.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/genericconcatsynth/!svn/ver/794/trunk/GenericConcatSynthLib/source/concat/Utilities/FloatEq.hxx
+END
+StringConversions.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/genericconcatsynth/!svn/ver/771/trunk/GenericConcatSynthLib/source/concat/Utilities/StringConversions.hxx
+END
+StdInt.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/genericconcatsynth/!svn/ver/491/trunk/GenericConcatSynthLib/source/concat/Utilities/StdInt.hxx
+END

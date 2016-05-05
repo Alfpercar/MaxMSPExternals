@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[MMSample.dsp]
+SCC_Aux_Path = "\\polw2k02\users\shared\vss\db1"
+SCC_Project_Name = "$/PIDevTools/Sample Code/MMSample", HKVAAAAA
+
+[MMSample.dsw]
+SCC_Aux_Path = "\\polw2k02\users\shared\vss\db1"
+SCC_Project_Name = "$/PIDevTools/Sample Code/MMSample", HKVAAAAA

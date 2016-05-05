@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[LATUS sample.dsp]
+SCC_Aux_Path = "\\polw2k02\users\shared\vss\db1"
+SCC_Project_Name = "$/PIDevTools/Sample Code/LATUS sample", SDUAAAAA
+
+[LATUS sample.dsw]
+SCC_Aux_Path = "\\polw2k02\users\shared\vss\db1"
+SCC_Project_Name = "$/PIDevTools/Sample Code/LATUS sample", SDUAAAAA
